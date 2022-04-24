@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pa15asti
+- 🌱 I’m currently working on TFinance
+- 📫 How to reach me: timurp23@gmail.com
