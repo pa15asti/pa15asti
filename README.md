@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pa15asti
-- 🌱 I’m currently working on TFinance
+- 🌱 I’m currently working on WebStretch
 - 📫 How to reach me: timurp23@gmail.com
 - 📍 Russia, Krasnodar
 - 🕔 GMT+3
